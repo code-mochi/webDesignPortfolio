@@ -1,4 +1,4 @@
 Diseño de portafolio, Incompleto.
 
-<a href="https://postimg.cc/LYVfPgvQ" target="_blank"><img src="https://i.postimg.cc/LYVfPgvQ/portafolio.png" alt="portafolio"/></a> <a href="https://postimg.cc/bSNn9YBy" target="_blank"><img src="https://i.postimg.cc/bSNn9YBy/portafolio1.png" alt="portafolio1"/></a><br/><br/>
-
+[![portafolio.png](https://i.postimg.cc/vBJvpWny/portafolio.png)](https://postimg.cc/LYVfPgvQ)
+[![portafolio1.png](https://i.postimg.cc/J0jQmG3k/portafolio1.png)](https://postimg.cc/bSNn9YBy)
